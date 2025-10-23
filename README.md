@@ -23,7 +23,7 @@ Gosto de explorar como a **análise de dados**, a **modelagem física** e a **es
 ---
 
 ### 💬 Vamos conversar?
-📫 Me encontre em [LinkedIn](www.linkedin.com/in/jefferson-silva-pereira-dos-santos-7aa790166) ou aqui mesmo no GitHub!  
+📫 Me encontre em [LinkedIn](https://www.linkedin.com/in/jefferson-silva-pereira-dos-santos-7aa790166/) ou aqui mesmo no GitHub!  
 📁 Repositórios focados em **Ciência dos Materiais + Data Science** estão a caminho 🚀
 
 ---
